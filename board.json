@@ -28,5 +28,35 @@
             "Leash": true,
             "Wax": true
         }
+    },
+    {
+        "Cliente": {
+            "Nombre": "Sebastian",
+            "Telefono": 7777777,
+            "Correo": "speo@outlook.com"
+        },
+        "Tabla": {
+            "Modelo": "inferno ",
+            "Marca": "JS",
+            "Tipo": "Shortboard"
+        },
+        "Dimensiones": {
+            "Length": 6.0,
+            "Width": 2.25,
+            "Thickness": 6.0,
+            "Volume": 24.0
+        },
+        "Especificaciones": {
+            "Material": "PU",
+            "Dise\u00f1o personalizado": "no",
+            "Numero de quillas": 5,
+            "Sistema de quillas": "FCS II"
+        },
+        "Pedido": {
+            "Cantidad": 10,
+            "Funda": true,
+            "Leash": true,
+            "Wax": true
+        }
     }
 ]
