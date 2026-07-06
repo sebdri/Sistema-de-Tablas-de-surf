@@ -16,6 +16,7 @@ def users_data(): #customer
             print("El numero ingresado es de formato no valido")
         
     users_email = input("Ingrse su correo electronico: ")
+    users_direction = input("Ingrese la direccion del pedido")
     return {
     "Nombre": users_name,
     "Telefono": users_phone_number,
